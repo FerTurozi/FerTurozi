@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerTurozi
 - 👀 I’m interested in lear new abilities in programing
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python
 - 📫 You can reach me on my linkedIn account and my social media below:
 - Ig: @Freunando
 - LinkedIn/ferturozi
